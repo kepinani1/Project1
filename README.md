@@ -1,8 +1,8 @@
 # Project1
 
-For our project, my team and I created a political search page Bipartisan Bollocks) that aggregated relevant news, media publications based on political biases (i.e., left, right, moderate views). The following APIs were incorporated, News API (which pulls from multiple news outlets such as Washington Post, Aljazeera, and the Wall Street Journal), and Twitter API. The library's used were CSS Animate and Materialize. In terms of distribution of work, I took on a role, whereas my other team members took on a back end role, and updates were made as a team.
+For our project, my team and I created a political search page "Bipartisan Bollocks" that aggregated relevant news, media publications based on political biases (i.e., left, right, moderate views). The following APIs were incorporated, News API (which pulls from multiple news outlets such as Washington Post, Aljazeera, and the Wall Street Journal), and Twitter API. The library's used were CSS Animate and Materialize. In terms of distribution of work, I took on a front end role, whereas my other team members took on a back end role, and updates were made as a team.
 
-As part of a group project, we were tasked with creating a webpage of our choosing that met the criteria below:
+As part of our group project, we were tasked with creating a webpage of our choosing that met the criteria below:
 1. Use of two of more APIs (i.e., News API, and Twitter API);
 2. Use of AJAX to make data pulls;
 3. Use of at least one new library and/or technology (i.e., CSS Materialize, Animate CSS);
